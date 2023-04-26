@@ -6,4 +6,5 @@ int main() {
 	printf("I am Adi");
 	printf("I am Anoc";
 	printf("Edited in Github")
+	printf("This is edited");
 }
